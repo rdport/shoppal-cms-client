@@ -84,7 +84,6 @@ export default {
         })
         .catch((err) => {
           this.message = err.response.data.message
-          console.log(this.message)
           this.error = true
           this.$nextTick(() => {
             this.$refs.error.$el.scrollIntoView()
