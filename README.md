@@ -1,4 +1,4 @@
-# ecommerce_client_cms
+# shoppal_client_cms
 
 ## Project setup
 ```
