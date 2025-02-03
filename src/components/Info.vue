@@ -97,7 +97,7 @@
                 <div class="description">
                   <p>
                     A web application for managing an online store which is on a separate website,
-                    <a href="https://shoppal-client-rdport@onrender.com">Shoppal</a>.
+                    <a href="https://shoppal-client-rdport.onrender.com">Shoppal</a>.
                   </p>
                   <h2>Features</h2>
                     <ul>
