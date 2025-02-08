@@ -114,7 +114,7 @@
                     </ul>
                     <h2>P.S.</h2>
                     <ul>
-                      <li>For testing, use the following data which have been added to the database<br>
+                      <li>For testing, use the following data which have been added to the database:<br>
                             <br>
                             <p class="mb-0" style="font-weight:bold">John Doe</p>
                             email: johndoe@mail.com<br>
